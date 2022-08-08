@@ -66,7 +66,7 @@ https://github.com/fxfactorial/cheap-name-. However this will make it easier for
 5. You can pretend to make a function call that is not what you're actually calling. For example you can pretend to approve a token by force bruting your
 function signature to have the same one as the approve function selector. This will appear on etherscan as if you're approving something when in reality you're not. Think about it. 
 
-GIT : 
+GIT : https://github.com/botdad/power-clash
 
 This code uses Rust which we have not learned yet, but the code can be easily used straight away whitout needing to understand rust. Hit me up on telegram if you need help with this.
 
@@ -87,7 +87,7 @@ By now you should have learned a ton. If you're ready to go next level, This is 
 
 - [An Analysis of Uniswap Markets](https://arxiv.org/pdf/1911.03380.pdf) Section 2.1 explains the optimization problem for optimal arbitrage routing
 - [Complex DFS ARBITRAGE Code Implementation](https://github.com/ccyanxyz/uniswap-arbitrage-analysis?fbclid=IwAR1qsAiM_DAOBWGtp5yAhRF7hHHCFSMzFzA4YIBfgNQvdJuR79J8QlZiPbk)
-- [Convex Optimization](https://baincapitalcrypto.com/introducing-cfmmrouter-jl/)
+- [Convex Optimization](https://baincapitalcrypto.com/introducing-cfmmrouter-jl/) code implementation
 - [CONVEX OPTIMIZATION RESSOURCES](https://twitter.com/0x_emperor/status/1516753295024726019)
 
 ### PART 8: LEARN TO THINK LIKE A PIRATE
