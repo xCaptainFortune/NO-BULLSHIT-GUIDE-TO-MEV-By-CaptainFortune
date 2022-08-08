@@ -27,7 +27,7 @@ https://pro.eattheblocks.com/courses/enrolled/958603
 
 The course if very cheap for what you learn but if you can't afford it, you can hop directly to Flashbot's simple arbitrage BOT explanatory video (FREE) and watch it at least 2-3 times. 
 
-https://www.youtube.com/watch?v=wn8r674U1B4&t=3387s&ab_channel=RobertMiller
+https://www.youtube.com/watch?v=wn8r674U1B4&t=3387s&ab_channel=RobertMiller (FREE)
 
 Close to the ending of the Flashbot's simple arbitrage they go over payloads, calldata and stuff which you'll inevitably find hard to understand. But don't worry. Here I am, the work and research is already done for you
 
