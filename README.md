@@ -1,6 +1,6 @@
 # NO BULLSHIT: GUIDE TO MEV
 
-My MEV journey started with Solidity. A must learn if you're going to do MEV and it will be a prerequisite for learning assembly and understanding a lot of alpha that will be presented here during our adventure. NO BULLSHIT GUIDE
+My MEV journey started with Solidity. A must learn if you're going to do MEV and it will be a prerequisite for learning assembly and understanding a lot of alpha that will be presented here during our adventure.
 
  Part 0: Learn nodeJS. I assume you have this done, else very easy to learn. I'll let you do this
 
