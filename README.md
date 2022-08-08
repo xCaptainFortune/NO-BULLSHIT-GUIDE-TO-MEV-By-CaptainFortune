@@ -60,10 +60,14 @@ EXTRA
 3. Pack your calldata. Normally, each argument in your calldata will be padded with leading 0s by the abiEncode function. This means you’ll often end up with extra 0s in your calldata that do nothing other than pad. Extra bytes mean extra gas. If you get your hands a bit dirty using inline assembly, you can bypass solidity’s standard abi decoder for calldata and just slice the calldata bytearray yourself:
 https://gist.github.com/0xmebius/f161abff38b88c9005db31d47e39bbe0
 
-4. Another leading 0 hack. When you define a function foo(uint x), the function signature (the first 4 bytes of your transaction calldata used to select which function you are calling) will be the first 4 bytes of Keccak-256 hash of foo(uint x). You can brute force various function names so that Keccak256(FUNCTIONNAME(uint x))[:4] == 0x0000. This saves some gas since 0 byte calldata is slightly cheaper than non zero byte calldata
+4.  Fixed size is better than dynamic size (array[5] instead of array[])
+
+5. Set the compiler optimizer (REMIX, truffle etc) to a high value. (1 round = less cost to deploy, costly fctns call. 100 000 rounds = expensive deploy, cheap calls). The less opcodes you have, the better. Computers are much better at optimizing than humans
+
+6. Another leading 0 hack. When you define a function foo(uint x), the function signature (the first 4 bytes of your transaction calldata used to select which function you are calling) will be the first 4 bytes of Keccak-256 hash of foo(uint x). You can brute force various function names so that Keccak256(FUNCTIONNAME(uint x))[:4] == 0x0000. This saves some gas since 0 byte calldata is slightly cheaper than non zero byte calldata
 https://github.com/fxfactorial/cheap-name-. However this will make it easier for people to see you in the mempool. Call it a psyop ?
 
-5. You can pretend to make a function call that is not what you're actually calling. For example you can pretend to approve a token by force bruting your
+7. You can pretend to make a function call that is not what you're actually calling. For example you can pretend to approve a token by force bruting your
 function signature to have the same one as the approve function selector. This will appear on etherscan as if you're approving something when in reality you're not. Think about it. 
 
 GIT : https://github.com/botdad/power-clash
