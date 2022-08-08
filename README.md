@@ -81,7 +81,7 @@ If you want to go futher in the gas optimizations rabbit hole, you can learn ass
 - [WATCH THIS AND TRY TO GO ALONG UNTIL YOU MASTER](https://www.youtube.com/watch?v=RxL_1AfV7N4&t=2842s)
 
 
-### ADVANCED ARBITRAGE PART 7: Convex Optimization Ressources and DFS arbitrage (REPO) PART 8 might interest you first though
+### PART 7: Advanced Arbitrage Convex Optimization and PATH finding => PART 8 might interest you first though
 
 By now you should have learned a ton. If you're ready to go next level, This is what we pros use. Convex Optimization and Optimal Path searching.
 
@@ -90,7 +90,7 @@ By now you should have learned a ton. If you're ready to go next level, This is 
 - [Convex Optimization](https://baincapitalcrypto.com/introducing-cfmmrouter-jl/)
 - [CONVEX OPTIMIZATION RESSOURCES](https://twitter.com/0x_emperor/status/1516753295024726019)
 
-### PART 8: LEARN TO BE A PIRATE
+### PART 8: LEARN TO THINK LIKE A PIRATE
 
 Every catastrophe is an opportunity. Millions of money are stolen each month from contract vulnerabilites and security exploits. Almost every one sucks at solidity and have no idea how Smart Contract Security works and how easily their contract can exploited. By understanding smart contract vulnerabilities you will be able to upgrade your MEV-ing.
 
@@ -106,7 +106,7 @@ However, I found that no one teached this freely. But again, EatTheBlocks has an
  https://consensys.github.io/smart-contract-best-practices/attacks/
  
  
- After for pratice, you can complete these games where you basically have to exploit a contract correctly that contains an exploit.
+ Then, for pratice, you can complete these games where you basically have to exploit a contract correctly that contains an exploit.
  
  
 https://ethernaut.openzeppelin.com/level/0x5732B2F88cbd19B6f01E3a96e9f0D90B917281E5
