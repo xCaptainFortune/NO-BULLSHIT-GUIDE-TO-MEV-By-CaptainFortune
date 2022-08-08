@@ -1,1 +1,1 @@
-# NO-BULLSHIT-GUIDE-TO-MEV-By-CaptainFortune
+# NO BULLSHIT GUIDE TO MEV By CaptainFortune
