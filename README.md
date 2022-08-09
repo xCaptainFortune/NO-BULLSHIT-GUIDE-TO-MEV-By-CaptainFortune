@@ -38,9 +38,6 @@ READ ALL THIS. TON OF ALPHA. YOU'RE WELCOME.
 - [DATA PAYLOADS](https://medium.com/swlh/understanding-data-payloads-in-ethereum-transactions-354dbe995371)
 - [CALL, DELEGATE CALL...](https://kushgoyal.com/ethereum-solidity-how-use-call-delegatecall/?fbclid=IwAR3IUpFhGjOC_Lwo2Wu5cNg5EChT5m3fqj6hAdnx5Iz31O9DkZ_hX7_gg8M#:~:text=Solidity%20has%20the%20call%20function,to%20transfer%20ether%20to%20addresse)
 - [Abi.encode and abi.decode](https://medium.com/coinmonks/abi-encode-and-decode-using-solidity-2d372a03e110)
- 
-Basically what they do in simple Arbitrage Bot is to "populate" a transaction using ethers to obtain the payloads which they can then call in their back-end code. If you use payloads in you're backend code (JS) it will be to call a contract with the encoded parameters. Used in solidity it will be to call other contracts from your contract.
-
 
 ### PART 5: GAS OPTIMIZATIONS ALPHA (A HELLA LOT)
 
