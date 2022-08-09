@@ -51,8 +51,6 @@ By now, you might have found a strategy that you want to try. Here are almost al
 - [Advanced gas optimzation, ftcn name, Packing your calldata, CREATE2 and more](https://medium.com/joyso/solidity-save-gas-in-smart-contract-3d9f20626ea4)
 - [Huge Compilation of gas Optimizations](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966/3)
 
-1. fixed size is better than dynamic size (array[5] instead of array[])
-2. set optimizer to high value. (1 round = less cost to deploy, costly fctns call. 100 000 rounds = expensive deploy, cheap calls). The less opcodes you have, the better
 
 EXTRA
 1. leave 1 wei of token in contract to avoid initializing storage twice for a same token (Basically when transfering token from you're contract send the amount minus 1 wei)
