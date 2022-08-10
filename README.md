@@ -21,13 +21,16 @@ Once I learned Solidity, the next step was to learn ethersJS. This is necessary 
  
  ### Part 3: Understand Arbitrage, Liquidations, flashloans
  
- After a lot of research and wasting a lot of time trying to understand liquidations, arbitrage and flashloans as a beginner I came across EatTheBlocks Profitable Flashloans Course. You probably know him if you have tried learning MEV alone, his course is truly the best ressource you'll find and you will understand Liquidations, Flashloans, Arbitrage all while using Solidity and ETHERS which is what we just learned before! (this is not sponspored)
+(Optional Great Complement) After a lot of research and wasting a lot of time trying to understand liquidations, arbitrage and flashloans as a beginner I came across EatTheBlocks Profitable Flashloans Course. You probably know him if you have tried learning MEV alone, his course is truly the best ressource you'll find and you will understand Liquidations, Flashloans, Arbitrage all while using Solidity and ETHERS which is what we just learned before! (this is not sponspored)
  
-(OPTIONAL GREAT COMPLEMENT) https://pro.eattheblocks.com/courses/enrolled/958603
+ https://pro.eattheblocks.com/courses/enrolled/958603
 
 The course if very cheap for what you learn but if you can't afford it, you can hop directly to Flashbot's simple arbitrage BOT explanatory video and watch it at least 2-3 times. 
 
 (NECESSARY) https://www.youtube.com/watch?v=wn8r674U1B4&t=3387s&ab_channel=RobertMiller 
+
+- [Better Simple Arb Bot](https://github.com/jacksonConrad/better-simple-arbitrage) This is a version of Flashbot's Simple Arbitrage BOT that has been improved
+
 
 Close to the ending of the Flashbot's simple arbitrage they go over payloads, calldata and stuff which you'll inevitably find hard to understand. But don't worry. Here I am, the work and research is already done for you
 
