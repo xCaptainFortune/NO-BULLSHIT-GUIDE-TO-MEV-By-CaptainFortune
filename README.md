@@ -114,18 +114,7 @@ However, I found that no one teached this freely. But again, EatTheBlocks has an
 https://ethernaut.openzeppelin.com/level/0x5732B2F88cbd19B6f01E3a96e9f0D90B917281E5
 
 
-
-### Useful information.
-
- 
-READ BERTCMILLER COMPILATION OF all his MEV related threads in chronologic order. Contains a lot of useful info.
-
-https://twitter.com/bertcmiller/status/1402665992422047747
-
-
-
-# PART 2 
-
+### More useful Code 
 
 Open-Sourced still semi-profitable frontrunning Bot that I wrote as a better alternative to libevm's bot. Contains the solution for optimal frontrunning amount in a single equation and much more.
 
@@ -135,5 +124,16 @@ Finally, a pratical example on how to perform multiple type of filters on millio
 
 - [All-in-one token filter by xCaptainFortune](https://github.com/xCaptainFortune/Token-Filter)
 
-# PART 3 coming soon...
+READ BERTCMILLER COMPILATION OF all his MEV related threads in chronologic order. Contains a lot of useful info.
 
+https://twitter.com/bertcmiller/status/1402665992422047747
+
+
+
+
+After you're done with this guide you're ready to go in the Wild ! What should you aim for ? Do not aim to make millions of dollars overnight. This is a misconception in MEV that makes people work their shit out 24/7 when it is not worth it. Time is valuable, so use it well. You should aim to make enough money in passive income so you can pay your rent, food and basically have no monetary problems. You can use the rest of your extra income to invest, enjoy life, build something for the long term ! I hope you enjoyed this guide.
+
+See ya in the mempool as they say ´
+After you're done with this guide you're ready to go in the Wild ! What should you aim for ? Do not aim to make millions of dollars overnight. This is a misconception in MEV that makes people work their shit out 24/7 when it is not worth it. Time is valuable, so use it well. You should aim to make enough money in passive income so you can pay your rent, food and basically have no monetary problems. You can use the rest of your extra income to invest, enjoy life, build something for the long term ! I hope you enjoyed this guide
+
+See ya in the mempool as they say hehe ;)
