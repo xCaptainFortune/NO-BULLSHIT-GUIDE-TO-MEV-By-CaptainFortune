@@ -126,5 +126,13 @@ https://twitter.com/bertcmiller/status/1402665992422047747
 
 # PART 2 
 
-...
+
+Open-Sourced still semi-profitable frontrunning Bot that I wrote as a better alternative to libevm's bot. Contains the solution for optimal frontrunning amount in a single equation and much more.
+
+- [Frontrunning Bot by xCaptainFortune](https://github.com/xCaptainFortune/Frontrunning-Bot-by-xCaptainFortune)
+
+Finally, a pratical example on how to perform multiple type of filters on millions of pairs. The goal of this repo is to be used as a low barrier of entry reference source code for aspiring new searchers (hence, JavaScript).
+
+
+- [All-in-one token filter by xCaptainFortune](https://github.com/xCaptainFortune/Token-Filter)
 
