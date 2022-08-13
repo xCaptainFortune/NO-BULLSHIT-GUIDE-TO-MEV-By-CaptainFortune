@@ -44,12 +44,12 @@ READ ALL THIS. TON OF ALPHA. YOU'RE WELCOME.
 
 ### PART 5: GAS OPTIMIZATIONS ALPHA (A HELLA LOT)
 
-By now, you might have found a strategy that you want to try. Here are almost all the gas optimizations you can use condensed all in here
+By now, you might have found a strategy that you want to try. Here are almost all the gas optimizations you can use in a nutshell
 
-- [A LOT OF GAS OPTIMIZATIONS BY 0xMasashi](https://twitter.com/0xMasashi/status/1468994152390176770)
+- [GAS OPTIMIZATIONS BY 0xMasashi](https://twitter.com/0xMasashi/status/1468994152390176770)
 - [MORE GAS OPTIMIZATIONS](https://m1guelpf.blog/d0gBiaUn48Odg8G2rhs3xLIjaL8MfrWReFkjg8TmDoM?fbclid=IwAR1MztUOuQvKYX7NyEYc6LwwGK66KYXMivS-_gLIMpGb4ym9chiuBTfg4Kk)
-- [Advanced gas optimzation, ftcn name, Packing your calldata, CREATE2 and more](https://medium.com/joyso/solidity-save-gas-in-smart-contract-3d9f20626ea4)
-- [Huge Compilation of gas Optimizations](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966/3)
+- [Advanced gas optimzations](https://medium.com/joyso/solidity-save-gas-in-smart-contract-3d9f20626ea4)
+- [Huge Compilation of more gas Optimizations](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966/3)
 
 
 EXTRA
