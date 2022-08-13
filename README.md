@@ -133,7 +133,6 @@ Open-Sourced still semi-profitable frontrunning Bot that I wrote as a better alt
 
 Finally, a pratical example on how to perform multiple type of filters on millions of pairs. The goal of this repo is to be used as a low barrier of entry reference source code for aspiring new searchers (hence, JavaScript).
 
-
 - [All-in-one token filter by xCaptainFortune](https://github.com/xCaptainFortune/Token-Filter)
 
 # PART 3 coming soon...
