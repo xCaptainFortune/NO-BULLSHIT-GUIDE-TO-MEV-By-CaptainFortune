@@ -136,3 +136,5 @@ Finally, a pratical example on how to perform multiple type of filters on millio
 
 - [All-in-one token filter by xCaptainFortune](https://github.com/xCaptainFortune/Token-Filter)
 
+# PART 3 coming soon...
+
