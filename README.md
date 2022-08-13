@@ -88,7 +88,7 @@ If you want to go futher in the gas optimizations rabbit hole, you can learn ass
 By now you should have learned a ton. If you're ready to go next level, This is what we pros use. Convex Optimization and Optimal Path searching.
 
 - [An Analysis of Uniswap Markets](https://arxiv.org/pdf/1911.03380.pdf) Section 2.1 explains the optimization problem for optimal arbitrage routing
-- [Complex DFS ARBITRAGE Code Implementation](https://github.com/ccyanxyz/uniswap-arbitrage-analysis?fbclid=IwAR1qsAiM_DAOBWGtp5yAhRF7hHHCFSMzFzA4YIBfgNQvdJuR79J8QlZiPbk) You'll need to generalize this for a larger number of hops
+- [Complex DFS ARBITRAGE Code Implementation](https://github.com/ccyanxyz/uniswap-arbitrage-analysis?fbclid=IwAR1qsAiM_DAOBWGtp5yAhRF7hHHCFSMzFzA4YIBfgNQvdJuR79J8QlZiPbk) You'll have to generalize this for a larger number of hops
 - [Convex Optimization](https://baincapitalcrypto.com/introducing-cfmmrouter-jl/) code implementation
 - [CONVEX OPTIMIZATION RESSOURCES](https://twitter.com/0x_emperor/status/1516753295024726019)
 
