@@ -130,9 +130,5 @@ https://twitter.com/bertcmiller/status/1402665992422047747
 
 ### Conclusion
 
-After you're done with this guide you're ready to go in the Wild ! What should you aim for ? Do not aim to make millions of dollars overnight. This is a misconception in MEV that makes people work their shit out 24/7 when it is not worth it. Time is valuable, so use it well. You should aim to make enough money in passive income so you can pay your rent, food and basically have no monetary problems. You can use the rest of your extra income to invest, enjoy life, build something for the long term ! I hope you enjoyed this guide.
+After you're done with this guide you're ready to go in the Wild ! What should you aim for ? Do not aim to make millions overnight. This is a misconception in MEV that has turned people into robots working their ass off 24/7 with unrealistic expectations. This is unhealthy & time is valuable, so use it well. You should aim to make enough money in passive income so you can pay your rent, food, debts and basically have no monetary problems. You can use the rest of your extra income to invest, enjoy life, build something for the long term ! I hope you enjoyed this guide & see ya in the mempool as they say ;)
 
-See ya in the mempool as they say ´
-After you're done with this guide you're ready to go in the Wild ! What should you aim for ? Do not aim to make millions of dollars overnight. This is a misconception in MEV that makes people work their shit out 24/7 when it is not worth it. Time is valuable, so use it well. You should aim to make enough money in passive income so you can pay your rent, food and basically have no monetary problems. You can use the rest of your extra income to invest, enjoy life, build something for the long term ! I hope you enjoyed this guide
-
-See ya in the mempool as they say hehe ;)
