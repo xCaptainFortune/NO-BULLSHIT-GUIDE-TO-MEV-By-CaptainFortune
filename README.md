@@ -96,7 +96,7 @@ By now you should have learned a ton. If you're ready to go next level, This is 
 
 Every catastrophe is an opportunity. Millions of money are stolen each month from contract vulnerabilites and security exploits. Almost every one sucks at solidity and have no idea how Smart Contract Security works and how easily their contract can exploited. By understanding smart contract vulnerabilities you will be able to upgrade your MEV-ing.
 
-However, I found that no one teached this freely. But again, EatTheBlocks has an amazing course on this and you'll learn a lot 
+However, I found that no one teached this freely. But again, EatTheBlocks has an amazing course on this and you'll learn a lot (again, not sponspored)
 
  PART 1 (smart contract vulnerabilities) : https://pro.eattheblocks.com/p/smart-contract-security-101
  - Here You will learn about Access Control, Tx.Origin, Accessing Unencrypted Data, Overflow, Reentracy Attacks, Denial of Service, Proxy and Upgradeability, Weak Randomness, Replay Attacks How to exploit and how to solve
