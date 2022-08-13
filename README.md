@@ -124,5 +124,7 @@ https://twitter.com/bertcmiller/status/1402665992422047747
 
 
 
-# PART 2 COMING SOON MAINLY FOCUSING ON ALPHA LEAKS...
+# PART 2 
+
+...
 
