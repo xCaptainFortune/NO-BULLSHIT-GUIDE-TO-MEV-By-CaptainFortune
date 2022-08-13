@@ -108,7 +108,7 @@ However, I found that no one teached this freely. But again, EatTheBlocks has an
  https://consensys.github.io/smart-contract-best-practices/attacks/
  
  
- Then, for pratice, you can complete these games where you basically have to exploit a contract correctly that contains an exploit.
+ Then, for pratice, you can complete these games where you basically have to exploit a contract that contains an exploit.
  
  
 https://ethernaut.openzeppelin.com/level/0x5732B2F88cbd19B6f01E3a96e9f0D90B917281E5
