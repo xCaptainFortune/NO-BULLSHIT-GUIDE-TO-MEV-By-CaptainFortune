@@ -138,8 +138,10 @@ I started MEV when almost no one knew about it. In that time, the forest was dar
 
 After that, me, a few searchers & traders decided to create Twisted Fortune's Crew. The Crew's purpose was to provide Risk-free opportunities to our crew and lend a hand to people entering the wild cryptoverse. The two things that we find were the most Risk-free, time inexpensive and yet very profitable was the Sniping & Trading game. An excessive lot of people still use uniswap to make trades and buy new tokens and sniping bots take advantage of this. Futhermore, we found that statistically 95% of crypto-traders lost money trading by themselves. Twisted Fortune  offers signals with a net average of 79% accuracy at an incredibly cheap rate compared to other signal providers that offer the same accuracy for 1000$-2000$ more. The money from the memberships is further used to buy insider-info, advice and knowledge so that we can offer the best crypto signals that our clients expect. If you'd like to join the Crew hit us up on telegram or snapchat! Else we wish you success and luck in the MEV-game, remember to take breaks & to enjoy 🤙
 
-- Telegram: @twistedfortune 
-- Snapchat: @xtwistedfortune 
-- Twitter: @xCaptainFortune 
-- Webiste link: twistedfortune.com
+Contact Us (Will respond under 24 hours)
+
+- [Telegram](https://t.me/twistedfortune)
+- [Snapchat](https://www.snapchat.com/add/xtwistedfortune)
+- [Twitter](https://twitter.com/xcaptainfortune)
+- [Webiste](twistedfortune.com)
 
