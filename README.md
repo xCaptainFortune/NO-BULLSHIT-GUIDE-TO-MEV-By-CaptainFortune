@@ -132,3 +132,14 @@ https://twitter.com/bertcmiller/status/1402665992422047747
 
 After you're done with this guide you're ready to go into the Dark Forest! What should you aim for ? Do not aim to make millions overnight. This is a misconception in MEV that has turned people into robots working their ass off 24/7 with unrealistic expectations. This is unhealthy & time is valuable, so use it well. You should aim to make enough money in passive income so you can pay your rent, food, debts and basically have no monetary problems. You can use the rest of your extra income to invest, enjoy life, build something for the long term ! I hope you enjoyed this guide & see ya in the mempool as they say ;)
 
+### Since many asked, WHY AM I RETIRING FROM MEV. A SHORT STORY 👇 (2 min worth reading)
+
+I started MEV when almost no one knew about it. In that time, the forest was dark enough so that only a few bots lurked in it. The game was very profitable and vampire bots would make a few thousands a day & arbitrage bots even more. That was the golden era for us MEV searchers. After that it all went downside. Profits would start decreasing, us searchers had to optimize our bots, find new strategies and by the time flashbots had become popular, everyone knew about MEV. I stayed in the game for a while and realized it had become overcrowded and too hard for the new users who struggled to find the right ressources. Yet it was still incredibly profitable for the best searchers. I decided to create a NO BULLSHIT GUIDE TO MEV to help new searchers entering the game and give them something concrete to follow so that they could be part of the bests too in a reasonable timeframe. 
+
+After that, me, a few searchers & traders decided to create Twisted Fortune's Crew. The Crew's purpose was to provide Risk-free opportunities to our crew and lend a hand to people entering the wild cryptoverse. The two things that we find were the most Risk-free, time inexpensive and yet very profitable was the Sniping & Trading game. An excessive lot of people still use uniswap to make trades and buy new tokens and sniping bots take advantage of this. Futhermore, we found that statistically 95% of crypto-traders lost money trading by themselves. Twisted Fortune  offers signals with a net average of 79% accuracy at an incredibly cheap rate compared to other signal providers that offer the same accuracy for 1000$-2000$ more. The money from the memberships is further used to buy insider-info, advice and knowledge so that we can offer the best crypto signals that our clients expect. If you'd like to join the Crew hit us up on telegram or snapchat! Else we wish you success and luck in the MEV-game, remember to take breaks & to enjoy 🤙
+
+Telegram: @twistedfortune 
+Snapchat: @xtwistedfortune 
+Twitter: @xCaptainFortune 
+Webiste link: twistedfortune.com
+
