@@ -143,5 +143,5 @@ Contact Us (Will respond under 24 hours)
 - [Telegram](https://t.me/twistedfortune)
 - [Snapchat](https://www.snapchat.com/add/xtwistedfortune)
 - [Twitter](https://twitter.com/xcaptainfortune)
-- [Webiste](twistedfortune.com)
+- [Website](twistedfortune.com)
 
