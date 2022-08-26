@@ -91,7 +91,7 @@ More advanced arbitrage uses convex optimization, DFS strategies. I also suggest
 
 - [Complex DFS ARBITRAGE Code Implementation](https://github.com/ccyanxyz/uniswap-arbitrage-analysis?fbclid=IwAR1qsAiM_DAOBWGtp5yAhRF7hHHCFSMzFzA4YIBfgNQvdJuR79J8QlZiPbk) You'll have to generalize this for a larger number of hops
 
-- [CONVEX OPTIMIZATION by Noxx](https://twitter.com/0x_emperor/status/1516753295024726019) One of the best Convex-Optimization reads I have done that is actually arbitrage related and straight to the point. Effective communication is the best !
+- [CONVEX OPTIMIZATION by Noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations) One of the best Convex-Optimization reads I have done that is actually arbitrage related and straight to the point. Effective communication is the best !
 
 - [Convex Optimization](https://baincapitalcrypto.com/introducing-cfmmrouter-jl/) code implementation
 
