@@ -1,6 +1,6 @@
 # NO BULLSHIT: GUIDE TO MEV
 
-This guide was authored by Captain Fortune and subsequently reviewed and contributed to by fellow crew members as co-authors. (To learn more about the Crew, please refer to the end of this guide)
+This guide was authored by Captain Fortune and subsequently reviewed and contributed to by fellow crew members as co-authors. (To learn more about the Crew, please refer to [link](https://medium.com/@twistedfortune/set-sail-on-the-crypto-seas-with-twisted-fortunes-crew-the-journey-begins-1c738dc9abe4))
 
 My MEV journey started with Solidity. A must learn if you're going to do MEV and it will be a prerequisite for learning assembly and understanding a lot of alpha that will be presented here during our adventure.
 
